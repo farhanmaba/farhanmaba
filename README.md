@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=My+Profile+Banner" alt="Profile Banner" />
+  <img src="https://codebyfarhan.com/wp-content/uploads/2023/12/farhan-at-google-scaled.jpeg" alt="Farhan Sabir at Google" />
 </div>
 
 Hey there! I'm Farhan, a passionate WordPress developer with a knack for crafting custom plugins and diving deep into Gutenberg development. I'm always excited to explore new technologies, and I'm currently leveling up my skills in CI/CD to streamline development workflows. I'm a firm believer in the power of collaboration, so if you're working on an exciting WordPress project, I'd love to connect and see how we can build something amazing together!
@@ -8,37 +8,31 @@ Hey there! I'm Farhan, a passionate WordPress developer with a knack for craftin
 
 <p align="left">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-  <img src="https://img.shields.io/badge/WordPress_Plugin_Development-0073AA?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=21759B" alt="WordPress Plugin Development"/>
+  <img src="https://img.shields.io/badge/WordPress_Plugin_Development-0073AA?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=21759B" alt="Plugin Development"/>
   <img src="https://img.shields.io/badge/Gutenberg-000000?style=for-the-badge&logo=gutenberg&logoColor=white" alt="Gutenberg"/>
   <img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=circleci&logoColor=white" alt="CI/CD"/>
 </p>
 
-## 🚀 Projects
+## 🚀 Personal Projects
 
-<!-- TODO: Add your project details here! -->
+### CodePOS
+- **Description:** CodePOS is a cloud-based point of sale software, designed and developed specifically for small and medium sized repair shops that allows technicians and repair people to track & monitor repair jobs, stay on top of inventory and manage multiple store locations. The software keeps track of inventory levels and notifies the business when the inventory is low and needs to be reordered.
+- **Link:** [Live Demo](https://app.codepos.net)
+- **Username:** demo_user
+- **Password:** demo_user
+- **Technologies:** CodeIgniter, PHP, JavaScript, CSS, HTML, MySQL
 
-### Project Title 1
-- **Description:** A brief overview of the project and its purpose.
-- **Link:** [Repository/Live Demo](your-project-link-here)
-- **Technologies:** List the key technologies used (e.g., WordPress, React, PHP, JavaScript).
-
-### Project Title 2
-- **Description:** A brief overview of the project and its purpose.
-- **Link:** [Repository/Live Demo](your-project-link-here)
-- **Technologies:** List the key technologies used.
-
----
-
----
+### CodeLedge - Development & Design Studio
+- **Description:** CodeLedge is an international web design and development agency that provides development and design services from Sweden, Slovenia, US and Pakistan with a fully remote and dedicated team of creative web designers, developers and marketers. We strive to be the perfect partner for our customers, we can guide and help you make the right decision for your company. Our main priority is to provide the best possible solutions to our customers, from creating a website to building a successful marketing strategy. Our search engine optimization (SEO) experts analyze the market and strive to offer the best SEO solutions to our clients.
+- **Link:** [CodeLedge - Development & Design Studio](https://codeledge.net)
 
 ## 📫 Get in Touch
 
 You can reach me through the following channels:
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com) <!-- TODO: Replace with your actual email -->
+- **Email:** [hi@codebyfarhan.com](mailto:hi@codebyfarhan.com)
 - **LinkedIn:** [Farhan Maba](https://www.linkedin.com/in/farhanmaba/)
-- **GitHub:** [@farhanmaba](https://github.com/farhanmaba) <!-- Assuming this is the GitHub profile -->
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) <!-- TODO: Replace with your actual Twitter handle or remove -->
+- **Website:** [CodeByFarhan](https://codebyfarhan.com)
 
 Feel free to reach out if you want to collaborate on a project, ask a question, or just say hi!
 
