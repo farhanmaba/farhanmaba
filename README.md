@@ -2,34 +2,55 @@
   <img src="https://codebyfarhan.com/wp-content/uploads/2023/12/farhan-at-google-scaled.jpeg" alt="Farhan Sabir at Google" />
 </div>
 
-Hey there! I'm Farhan, a passionate WordPress developer with a knack for crafting custom plugins and diving deep into Gutenberg development. I'm always excited to explore new technologies, and I'm currently leveling up my skills in CI/CD to streamline development workflows. I'm a firm believer in the power of collaboration, so if you're working on an exciting WordPress project, I'd love to connect and see how we can build something amazing together!
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hej/Hi/Salam, I'm Farhan</h2>
 
-## 🛠️ Skills
+A passionate developer with a knack for crafting beautifule web enterprise solutions, WordPress plugins/themes and diving deep into Gutenberg development. I'm always excited to explore new technologies, and I'm currently leveling up my skills in Cloud & CI/CD to streamline development workflows. I'm a firm believer in the power of collaboration, so if you're working on an exciting project, I'd love to connect and see how we can build something amazing together!
 
-<p align="left">
-  Lots of em!
-</p>
+- 👨‍💻 Building JavaScript based web apps and WordPress based websites & stores
+- 🛠️ Enjoy working on a variety of projects small to enterprise level projects
+- 👥 Open to collaboration on open source
+- 🔧 Offering services for design and web development
 
-## 🚀 Personal Projects
-
-Lots of em!
+<div align="start">
+  
+  ![](https://komarev.com/ghpvc/?username=farhanmaba&style=flat&color=brightgreen)
+  
+</div>
 
 ## 📫 Get in Touch
 
 You can reach me through the following channels:
 
 - **Email:** [hi@codebyfarhan.com](mailto:hi@codebyfarhan.com)
+- **Gmail:** [frhnsbrsw@gmail.com](mailto:frhnsbrsw@gmail.com)
 - **LinkedIn:** [Farhan Maba](https://www.linkedin.com/in/farhanmaba/)
 - **Website:** [CodeByFarhan](https://codebyfarhan.com)
 
 Feel free to reach out if you want to collaborate on a project, ask a question, or just say hi!
 
----
-
-## 📊 GitHub Stats
-
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanmaba&theme=radical" alt="Farhan's GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=farhanmaba&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Farhan's GitHub Stats" />
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhanmaba&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhanmaba&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farhanmaba&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhanmaba&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhanmaba&theme=github_dark)
+
+</div>
+
+## ☕ Fuel My Code
+
+<div align="center">
+  <a href="https://www.paypal.com/paypalme/farhanmaba">
+    <img src="https://img.shields.io/badge/Support_My_Work-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
+  </a>
+  <p><i>Your support transforms caffeine into code! ✨</i></p>
+  
+  <table>
+    <tr>
+      <td>🚀 Faster Updates</td>
+      <td>🔍 Better Documentation</td>
+      <td>🛠️ More Features</td>
+    </tr>
+  </table>
 </div>
