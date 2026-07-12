@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://codebyfarhan.com/wp-content/uploads/2023/12/farhan-at-google-scaled.jpeg" alt="Farhan Sabir at Google" />
+  <img src="https://www.codebyfarhan.com/_next/image?url=%2Fimages%2FGoogle.jpeg&w=640&q=75&dpl=dpl_ELdNZnfrw3GPAFjFW5r8Ti9fkKdL" alt="Farhan Sabir at Google" />
 </div>
 
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hej/Hi/Salam, I'm Farhan</h2>
